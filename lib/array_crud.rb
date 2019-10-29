@@ -6,7 +6,7 @@ def create_an_array
   ["Petey Panther", "Lily Butt", "Pancake", "Tinkerbelly"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array
   array = ["wow", "I", "am", "really" "learning"]
   element << "arrays!"
 end
